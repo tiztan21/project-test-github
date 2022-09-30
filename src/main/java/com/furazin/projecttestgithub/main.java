@@ -8,3 +8,4 @@ public class main {
         System.out.println(arith.add());
     }
 }
+class error_code: void;
